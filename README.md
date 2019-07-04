@@ -43,3 +43,5 @@ A custom fortune!
 %
 Another custom fortune!
 ```
+
+## NOTE: THIS PACKAGE IS VERY LARGE, I RECOMMEND INSTALLING GLOBALLY
