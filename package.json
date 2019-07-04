@@ -1,0 +1,26 @@
+{
+  "name": "@yaas/fortune",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "node-fortune": "cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hub-sp/fortune.git"
+  },
+  "keywords": [
+    "fortune",
+    "node-fortune"
+  ],
+  "author": "Sam Price",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hub-sp/fortune/issues"
+  },
+  "homepage": "https://github.com/hub-sp/fortune#readme"
+}
